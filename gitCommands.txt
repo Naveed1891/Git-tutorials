@@ -10,7 +10,7 @@ git branch: Display a list of all branches in the repository.
 git branch <branch-name>: Create a new branch with the specified name.
 git checkout <branch-name>: Switch to the specified branch.
 git merge <branch-name>: Merge the specified branch into the current branch.
-git push <remote> <branch>: Push the changes in the current branch to the specified remote branch.
-git pull <remote> <branch>: Pull the latest changes from the specified remote branch and merge them into the current branch.
+git push -u origin master: Push the changes in the current branch to the specified remote branch.
+git pull origin master: Pull the latest changes from the specified remote branch and merge them into the current branch.
 These are just a few of the many commands available in Git. For a full list of Git commands and
 
