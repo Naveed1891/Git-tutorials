@@ -1,4 +1,4 @@
-Here are some commonly used Git commands in Git Bash:
+Here are some commonly used basic Git commands in Git Bash:
 
 git init: Initialize a new Git repository.
 git add <filename>: Add a specific file to the staging area.
