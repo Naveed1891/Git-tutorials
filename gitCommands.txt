@@ -12,5 +12,6 @@ git checkout <branch-name>: Switch to the specified branch.
 git merge <branch-name>: Merge the specified branch into the current branch.
 git push -u origin master: Push the changes in the current branch to the specified remote branch.
 git pull origin master: Pull the latest changes from the specified remote branch and merge them into the current branch.
+git diff <file-name> : To see what was modified or changed inside the modified directory.
 These are just a few of the many commands available in Git. For a full list of Git commands and
 
